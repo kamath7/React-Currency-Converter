@@ -1,3 +1,5 @@
+Project created with Guidance from Web Dev Simplified
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
